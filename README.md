@@ -1,1 +1,1 @@
-#Third Project made using React JS
+Timer Project made using React JS
